@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 
 ![Francesco's GitHub stats](https://github-readme-stats.vercel.app/api?username=francesco98&show_icons=true&theme=radical)
-[![I miei linguaggi più usati](https://github-readme-stats.vercel.app/api/top-langs/?username=tuo-username&langs_count=8&layout=compact)](https://github.com/FaiellaFrancesco) 
+[![I miei linguaggi più usati](https://github-readme-stats.vercel.app/api/top-langs/?FaiellaFrancesco&langs_count=8&layout=compact)](https://github.com/FaiellaFrancesco) 
