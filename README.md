@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## 📊 Statistiche GitHub
 
-![Francesco's GitHub stats](https://github-readme-stats.vercel.app/api?username=francesco98&show_icons=true&theme=radical)
-[![I miei linguaggi più usati](https://github-readme-stats.vercel.app/api/top-langs/?FaiellaFrancesco&langs_count=8&layout=compact)](https://github.com/FaiellaFrancesco) 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FaiellaFrancesco&show_icons=true&theme=radical&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FaiellaFrancesco&layout=compact&theme=radical)
