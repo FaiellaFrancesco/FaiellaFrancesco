@@ -2,7 +2,7 @@
 
 🎓 Studente di informatica all’università di Salerno
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/francesco-rossi/](https://www.linkedin.com/in/francesco-faiella-0b9a60306/))  
+
 
 <!--
 **FaiellaFrancesco/FaiellaFrancesco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
