@@ -1,7 +1,7 @@
 ## 🚀 Su di me
-Sono uno studente di Informatica presso l'Università degli Studi di Salerno con la passione per lo sviluppo software e la risoluzione di problemi complessi.
+Sono uno studente di Sicurezza Informatica presso l'Università degli Studi di Milano.
 
-- 🎓 **Percorso:** Laurea in Informatica (UNISA)
+- 🎓 **Percorso:** Laurea in Informatica (UNISA), ora studente magistrale alla statale di Milano (LM-66 R)
 - 💻 **Interessi:** Backend Cybersecurity
 
 
