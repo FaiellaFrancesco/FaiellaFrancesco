@@ -1,8 +1,8 @@
-## 🚀 Su di me
+## About me
 Sono uno studente di Sicurezza Informatica presso l'Università degli Studi di Milano.
 
-- 🎓 **Percorso:** Laurea in Informatica (UNISA), ora studente magistrale alla statale di Milano (LM-66 R)
-- 💻 **Interessi:** Backend Cybersecurity
+- **Percorso:** Laurea in Informatica (UNISA), ora studente magistrale alla statale di Milano (LM-66 R)
+- **Interessi:** Backend Cybersecurity
 
 
 ## 🛠️ Skills
